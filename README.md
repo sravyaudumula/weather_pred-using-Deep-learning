@@ -24,6 +24,3 @@ We also built a *frontend web app* to make predictions easy and interactive.
 - *Frontend*: React / Lovable App platform
 - *Deployment*: Lovable hosting  
 
----
-
-## 📂 Project Structure
